@@ -1,5 +1,3 @@
-<h2 style="text-align: center;">mod for People Playground</h2>
-<h2 style="text-align: center;">version - 0.2 alpha&nbsp;</h2>
 <h3 style="text-align: left;">update 0.2 alpha<br />what's new?</h3>
 <p style="text-align: left;"><span style="color: #800080;">-A.L.P.H.A.</span><br /><span style="color: #800080;">-alt. L1fe_plz</span><br /><span style="color: #800080;">-Radio</span></p>
 <h3 style="text-align: left;">what's fix?</h3>
